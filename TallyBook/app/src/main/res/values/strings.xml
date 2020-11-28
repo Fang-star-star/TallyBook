@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TallyBook</string>
+    <string name="month_payout">月·支出</string>
+    <string name="month_budget">预算</string>
+    <string name="set_month_budget">点此设置</string>
+    <string name="divide">|</string>
+    <string name="month_income">本月收入</string>
+    <string name="payout_today">今天</string>
+    <string name="payout_today_late">还没有记过账</string>
+</resources>
